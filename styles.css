@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    color: #82a5ca; /* #a9cfe8 */
+    text-align: center;
+    /*background-image: url(./assets/galaxy\,webp.gif);
+    /*background-image: url(./assets/universe.jpg);*/
+    font-family:'Orbitron', sans-serif;
+}
+
+#hero {
+    
+    background-image: url(./assets/galaxy\,webp.gif);
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+#main-logo{
+    width: 100px;
+}
+
+#title {
+    text-shadow: 0px 0px 4px black;
+}
+
+.btn {
+    /*font-family:'Orbitron', sans-serif;*/
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: inherit;
+    font-weight: bolder;
+    color: #82a5ca; /* #a9cfe8 */
+    font-weight: bold; /* Colocar números para font-weight (por exemplo: font-weight: 800;) trás o mesmo efeito que os caracteres bold, italic, etc.*/
+    
+}
+
+.underline {
+    border-bottom: 4px solid white;
+}
